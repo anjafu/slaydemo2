@@ -1,0 +1,10 @@
+{
+    "startDeck": {
+        "White Button": 5,
+        "Shiitake": 3,
+        "Enoki": 1,
+        "Liberty Cap": 1,
+        "Enoki": 1
+    },
+    "drawLimit": 5
+}

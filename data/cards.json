@@ -1,0 +1,50 @@
+[
+    {
+        "name": "White Button",
+        "scientific": "Agaricus bisporus",
+        "type": "Edible",
+        "effects": [],
+        "img": "img/button.png",
+        "cost": 10
+    },
+    {
+        "name": "Shiitake",
+        "scientific": "Lentinula edodes",
+        "type": "Edible",
+        "effects": [],
+        "img": "img/shiitake.png",
+        "cost": 20
+    },
+    {
+        "name": "Enoki",
+        "scientific": "Flammulina velutipes",
+        "type": "Edible",
+        "effects": [],
+        "img": "img/enoki.png",
+        "cost": 10
+    },
+    {
+        "name": "Death Cap",
+        "scientific": "Amanita phalloides",
+        "type": "Deadly",
+        "effects": [],
+        "img": "img/death.png",
+        "cost": 30
+    },
+    {
+        "name": "Destroying Angel",
+        "scientific": "Amanita virosa",
+        "type": "Deadly",
+        "effects": [],
+        "img": "img/angel.png",
+        "cost": 40
+    },
+    {
+        "name": "Liberty Cap",
+        "scientific": "Psilocybe semilanceata",
+        "type": "Hallucinogenic",
+        "effects": [],
+        "img": "img/liberty.png",
+        "cost": 15
+    }
+]
